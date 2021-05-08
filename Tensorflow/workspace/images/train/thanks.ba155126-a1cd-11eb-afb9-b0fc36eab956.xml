@@ -1,0 +1,26 @@
+<annotation>
+	<folder>thanks</folder>
+	<filename>thanks.ba155126-a1cd-11eb-afb9-b0fc36eab956.jpg</filename>
+	<path>C:\Users\LENOVO\RealTimeObjectDetection\Tensorflow\workspace\images\collectedimages\thanks\thanks.ba155126-a1cd-11eb-afb9-b0fc36eab956.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>thanks</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>176</xmin>
+			<ymin>288</ymin>
+			<xmax>532</xmax>
+			<ymax>462</ymax>
+		</bndbox>
+	</object>
+</annotation>
